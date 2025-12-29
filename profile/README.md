@@ -1,0 +1,74 @@
+
+<!--
+% This file is part of the Open Source project 'proTironeComputatri'
+% (c) 2025 Karsten Reincke (https://github.com/kreincke/proTironeComputatri)
+% It is distributed under the terms of the Creative Commons license
+% CC-BY-4.0 (= https://creativecommons.org/licenses/by/4.0/)
+-->
+
+
+<!-- LTeX:Language=de-DE -->
+
+<p align="center">
+  <a href="https://github.com/kreincke/proTironeComputatri/"><img src="logo.png" height="80"></a><br />
+  <a href="https://github.com/kreincke/proTironeComputatri/commits/" title="Last Commit"><img src="https://img.shields.io/github/last-commit/kreincke/proScientia.ltx?style=flat"></a>
+  <a href="https://github.com/kreincke/proTironeComputatri/issues" title="Open Issues"><img src="https://img.shields.io/github/issues/kreincke/proScientia.ltx?style=flat"></a>  
+  <a href="https://github.com/kreincke/proTironeComputatri/blob/master/LICENSING.md" title="License"><img src="https://img.shields.io/badge/License-CC_BY_4.0-blue.svg?style=flat"></a>
+</p>
+
+
+## Freie Unterrichtsmaterialien für die Ausbildung zur Fachinformatikerin
+
+<!-- LTeX:Language=en-US -->
+
+> *In Germany, there is a second way to become a computer scientist besides studying computer science: you can get an in-company training as an IT specialist, supplemented by vocational school instruction. Ultimately, you are certified by the Chamber of Industry and Commerce (IHK). This repository offers teaching materials in accordance with the official German framework curriculum. The language of instruction is German. Thus, this repository also uses German as the language of teaching material!* 
+
+<!-- LTeX:Language=de-DE -->
+
+### Manifest
+
+Das Projekt *proTironeComputatri* stellt **_freie_ Lehr- und Lernmaterialien für die Ausbildung zur Fachinformatikerin**[^1] bereit. In einem GitHub-Repository. Mit Creative-Commons-lizenzierten Dokumenten und Skripten, die
+
+* die die Vorgaben des Rahmenlehrplans und der Prüfungskataloge erfüllen,
+* die sich an die Aufteilung der Lernfelder halten,
+* die fertig nutzbare Lehr- und Lernmaterialien sind,
+* die alle Themen und Aspekte eines Lernfeldes abdecken.  
+
+Wir möchten, dass Lehrerinnnen und Schülerinnen in diesem Repository - für jeden Aspekt der Ausbildung zur Fachinformatikerin - fertig aufbereitete Unterrichts- und Lerneinheiten finden. Dass diese den von den Abschlussprüfungen I und II erwarteten Stoff umfänglich und hochwertig aufbereiten. Und dass Lehrerinnnen und Schülerinnen die Ergebnisse gebührenfrei und ohne urheberrechtliche Bedenken verwenden können.
+
+Wir wissen, dass so ein Ziel nur kooperativ zu erreichen ist. In kleinen Schritten. Deshalb stellen wir die PDF-Dateien und ihre Quellen in einem GitHub-Repository bereit, unter den Bedingungen der *CC-BY-4.0*-Lizenz. Beides zusammen, die GitHub-Methodik und die Lizenzierung, erlaubt es uns, mit Techniken der Open-Source-Softwareentwicklung wirklich freie Unterrichtsmaterialien für die Ausbildung von Fachinformatikerinnen zu entwickeln. Und zwar gemeinsam. Als Community.
+
+Seien Sie als Contributorin herzlich willkommen! Wir freuen uns auf jeden Pullrequest!!
+
+### [Lizenz](https://github.com/kreincke/proTironeComputatri/blob/main/LICENSING.md) 
+
+Sofern im Einzelfall nicht anders vermerkt, stehen alle Dokumente unter der [CC-BY-4.0-Lizenz](https://creativecommons.org/licenses/by/4.0/deed.de). Davon ausgenommen ist das [proTirone-Logo](https://github.com/kreincke/proTironeComputatri/blob/main/logo.png): Es darf nur verwendet werden, um das Projekt [proTirone](https://github.com/kreincke/proTironeComputatri/) visuell zu markieren bzw. anzuteasern.
+
+### Struktur
+
+
+ `proTironeComputatri` ist als GitHub-Organisation aufgesetzt und enthält folgende Repositories:
+
+* `protico.les` enthält fertige Unterrichtseinheiten geordnet nach den Lernfeldern
+* `protico.ltx` enthält ein build-System samt LaTeX/Markdown-basierte Quelle für Unterrichtseinheiten aus *protico.les*
+* `protico.msd` enthält Microsoft basierte Quellen für Unterrichtseinheiten für Unterrichtseinheiten aus *protico.les*
+* `protico.mdd` enthält die Quellen für ein Markdown-Demo-System.
+
+### Hintergrund
+
+In Deutschland gibt es neben dem Studium der Informatik die Ausbildung zur Fachinformatikerin.[^1] Ersteres schließt mit dem Bachelor oder Master ab, letztere mit dem Gesellenbrief. Denn die Ausbildung zur Fachinformatikerin ist Teil des deutschen dualen Ausbildungssystems: die 'Azubis' - die *Tirones* - werden im Betrieb und in der Berufsschule ausgebildet. Und für die Ausbildung in der Berufsschule braucht es - neben Lehrerinnen und einem Rahmenlehrplan - ein Curriculum und entsprechende Lehrmaterialien.
+
+Wäre es nicht schön, wenn die zukünftigen Informatikerinnen gleich anhand von Open-Source-(Software) basierten Dokumenten ausgebildet würden?
+
+### Warum nutzt Ihr einen lateinischen Projektnamen?
+
+Wann immer wir nach *Fachinformatik* 'gegoogelt' hatten, sind wir auf Treffer zur universitären Informatik gestoßen: Die Bedeutungen von *Fachinformatik* und *Fach Informatik* liegen einfach zu eng beieinander. Auch die Wörter *Lehrling* oder *Lehrlingsausbildung* führen über *Lehre* und *Bildung* in den universitären Kontext.[^2] 
+
+Um nun unser Vorhaben explizit in den Kontext der deutschen Lehrlingsausbildung - das deutsche duale Ausbildungssystem - zu stellen und vom universitären Anspruch abzugrenzen, haben wir uns für den lateinischen Neologismus [computatrum = Rechenmaschine/Computer](https://www.latin-is-simple.com/de/vocabulary/noun/6131/) und das Wort [tiro = Lehrling](https://de.pons.com/übersetzung-2/latein-deutsch/tiro) entschieden. Weil letzteres in der Verbindung mit der Präposition *pro* im Ablativ genutzt wird, entstand **pro tirone computatri**: *für den Lehrling der Fachinformatik*. Und das beschreibt den Zweck dieses Projektes und Repositories recht gut.
+
+
+
+[^1]: Wir nutzen das generische Femininum. Dort, wo wir es nicht tun, hätten wir es tun sollen und werden nachbessern. Denn nach mehreren Jahrhunderten, in denen es andersherum lief, werden wir Männer es gut einige Jahrzehnte aushalten, wenn nun wir mitgemeint sind, und nicht mehr die Frauen. Die werden das zumeist (wohl) nicht (offen) fordern. Weil sie ja ein gerechteres System wollen. Aber wir Männer können es ihnen von uns aus geben, ritterlich. Das wäre dann unser Beitrag zu einer respektvolleren Welt und zur Bewahrung einer sprachlichen Eleganz. Denn [Sprache ist, was wir draus machen](https://www.amazon.de/Sprache-ist-was-draus-machst/dp/342644612X/).
+
+[^2]: Klar, für solche Fälle gibt es die Spezial(!)suche __"__Fachinformatik__"__. Nur muss man darauf erst einmal kommen. 
+

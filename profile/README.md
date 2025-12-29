@@ -27,7 +27,7 @@
 
 ### Manifest
 
-Wir möchten Lehrerinnnen und Schülerinnen fertig aufbereitete Unterrichts- und Lerneinheiten für die Ausbildung zur Fachinformatikerin anbieten. Wir wollen dafür den Stoff, den die Abschlussprüfungen I und II erwarten, umfänglich und hochwertig aufbereiten. Und wir wünschen uns, dass jede unsere Ergebnisse gebührenfrei und ohne urheberrechtliche Bedenken verwenden kann.
+Wir möchten Lehrerinnnen und Schülerinnen fertig aufbereitete Unterrichts- und Lerneinheiten für die Ausbildung zur Fachinformatikerin anbieten. Wir wollen den Stoff, den die Abschlussprüfungen I und II erwarten, umfänglich und hochwertig aufbereiten. Und wir wünschen uns, dass jede unsere Ergebnisse gebührenfrei und ohne urheberrechtliche Bedenken verwenden kann.
 
 Darum stellen wir im Projekt `proTironeComputatri` GitHub-Repositories mit **_freien_ Lehr- und Lernmaterialien für die Ausbildung zur Fachinformatikerin**[^1] bereit. Als Dokumente und Skripte, die
 

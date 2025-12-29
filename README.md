@@ -9,7 +9,7 @@
 <!-- LTeX:Language=de-DE -->
 
 <p align="center">
-  <a href="https://github.com/pro-tirone-computatri"><img src="../logo.png" height="80"></a>
+  <a href="https://github.com/pro-tirone-computatri"><img src="./logo.png" height="80"></a>
 </p>
 
 Special Organization Repository for the project

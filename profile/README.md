@@ -9,11 +9,6 @@
 
 <!-- LTeX:Language=de-DE -->
 
-<p align="center">
-  <a href="https://github.com/pro-tirone-computatri"><img src="../logo.png" height="80"></a>
-</p>
-
-
 ## Freie Unterrichtsmaterialien für die Ausbildung zur Fachinformatikerin
 
 <!-- LTeX:Language=en-US -->
@@ -37,6 +32,10 @@ Deshalb bieten Ihnen die *proTironeComputatri*-Repositories **_freie_ Lehr- und 
 Wir wissen, dass so ein Ziel nur kooperativ zu erreichen ist. In kleinen Schritten. Deshalb stellen wir unsere Unterrichtseinheiten sukzessive bereit: Wir entwickeln sie zuerst in öffentlichen GitHub-Repositories. Und was reif ist, stellen wir dann als PDF-Dateien in einem Repository für fertige Unterrichtseinheiten zum Download bereit. Beides zusammen -- die GitHub-Methodik und unsere Lizenzierung -- erlaubt es uns, mit Techniken der Open-Source-Softwareentwicklung wirklich freie Unterrichtsmaterialien für die Ausbildung von Fachinformatikerinnen zu entwickeln. Und zwar gemeinsam. Als Community.
 
 Seien Sie als Kontributorin herzlich willkommen! Wir freuen uns auf jeden Pullrequest!!
+
+<p align="center">
+  <a href="https://github.com/pro-tirone-computatri"><img src="../logo.png" height="80"></a>
+</p>
 
 ### [Lizenz](../LICENSING.md) 
 

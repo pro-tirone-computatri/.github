@@ -38,12 +38,11 @@ Wir wissen, dass so ein Ziel nur kooperativ zu erreichen ist. In kleinen Schritt
 
 Seien Sie als Kontributorin herzlich willkommen! Wir freuen uns auf jeden Pullrequest!!
 
-### [Lizenz](https://github.com/kreincke/proTironeComputatri/blob/main/LICENSING.md) 
+### [Lizenz](../LICENSING.md) 
 
 Sofern im Einzelfall nicht anders vermerkt, stehen alle Dokumente unter der [CC-BY-4.0-Lizenz](https://creativecommons.org/licenses/by/4.0/deed.de). Davon ausgenommen ist das [proTirone-Logo](../logo.png): Es darf nur verwendet werden, um das Projekt [proTirone](https://github.com/pro-tirone-computatri) und seine Repositories visuell zu markieren bzw. anzuteasern.
 
 ### Struktur
-
 
  `proTironeComputatri` ist als GitHub-Organisation aufgesetzt und enthält folgende Repositories:
 

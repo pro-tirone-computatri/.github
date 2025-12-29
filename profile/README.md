@@ -29,7 +29,7 @@
 
 Wir möchten Lehrerinnnen und Schülerinnen fertig aufbereitete Unterrichts- und Lerneinheiten für die Ausbildung zur Fachinformatikerin anbieten. Wir wollen den Stoff, den die Abschlussprüfungen I und II erwarten, umfänglich und hochwertig aufbereiten. Und wir wünschen uns, dass jede Nutzerin unsere Ergebnisse im Sinne freier Software und Dokumente gebührenfrei und ohne urheberrechtliche Bedenken verwenden kann.
 
-Darum stellen wir im Projekt `proTironeComputatri` GitHub-Repositories mit **_freien_ Lehr- und Lernmaterialien für die Ausbildung zur Fachinformatikerin**[^1] bereit. Als Dokumente und Skripte, die
+Darum finden Sie in den `proTironeComputatri`-Repositories **_freie_ Lehr- und Lernmaterialien für die Ausbildung zur Fachinformatikerin**[^1]. In Form von Dokumenten und Skripten, 
 
 * die die Vorgaben des Rahmenlehrplans und der Prüfungskataloge erfüllen,
 * die sich an die Aufteilung der Lernfelder halten,
@@ -37,7 +37,7 @@ Darum stellen wir im Projekt `proTironeComputatri` GitHub-Repositories mit **_fr
 * die alle Themen und Aspekte eines Lernfeldes abdecken,
 * die *CC-BY-4.0* bzw. MIT lizenziert sind.
 
-Wir wissen, dass so ein Ziel nur kooperativ zu erreichen ist. In kleinen Schritten. Deshalb stellen wir unsere Unterrichtseinheiten sukzessive bereit, jeweils als fertige PDF-Dateien und als Quelldokumente zur Verfügung. Beides zusammen -- die GitHub-Methodik und unsere Lizenzierung -- erlaubt es uns, mit Techniken der Open-Source-Softwareentwicklung wirklich freie Unterrichtsmaterialien für die Ausbildung von Fachinformatikerinnen zu entwickeln. Und zwar gemeinsam. Als Community.
+Wir wissen, dass so ein Ziel nur kooperativ zu erreichen ist. In kleinen Schritten. Deshalb stellen wir unsere Unterrichtseinheiten sukzessive bereit: Wir entwickeln sie zuerst in öffentlichen GitHub-Repositories. Und was reif ist, stellen wir dann als PDF-Dateien in einem Repository für fertige Unterrichtseinheiten zum Download bereit. Beides zusammen -- die GitHub-Methodik und unsere Lizenzierung -- erlaubt es uns, mit Techniken der Open-Source-Softwareentwicklung wirklich freie Unterrichtsmaterialien für die Ausbildung von Fachinformatikerinnen zu entwickeln. Und zwar gemeinsam. Als Community.
 
 Seien Sie als Kontributorin herzlich willkommen! Wir freuen uns auf jeden Pullrequest!!
 

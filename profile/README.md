@@ -27,18 +27,19 @@
 
 ### Manifest
 
-Das Projekt *proTironeComputatri* stellt **_freie_ Lehr- und Lernmaterialien für die Ausbildung zur Fachinformatikerin**[^1] bereit. In einem GitHub-Repository. Mit Creative-Commons-lizenzierten Dokumenten und Skripten, die
+Wir möchten Lehrerinnnen und Schülerinnen fertig aufbereitete Unterrichts- und Lerneinheiten für die Ausbildung zur Fachinformatikerin anbieten. Wir wollen dafür den Stoff, den die Abschlussprüfungen I und II erwarten, umfänglich und hochwertig aufbereiten. Und wir wünschen uns, dass jede unsere Ergebnisse gebührenfrei und ohne urheberrechtliche Bedenken verwenden kann.
+
+Darum stellen wir im Projekt `proTironeComputatri` GitHub-Repositories mit **_freien_ Lehr- und Lernmaterialien für die Ausbildung zur Fachinformatikerin**[^1] bereit. Als Dokumente und Skripte, die
 
 * die die Vorgaben des Rahmenlehrplans und der Prüfungskataloge erfüllen,
 * die sich an die Aufteilung der Lernfelder halten,
 * die fertig nutzbare Lehr- und Lernmaterialien sind,
-* die alle Themen und Aspekte eines Lernfeldes abdecken.  
+* die alle Themen und Aspekte eines Lernfeldes abdecken,
+* die *CC-BY-4.0* bzw. MIT lizenziert sind.
 
-Wir möchten, dass Lehrerinnnen und Schülerinnen in diesem Repository - für jeden Aspekt der Ausbildung zur Fachinformatikerin - fertig aufbereitete Unterrichts- und Lerneinheiten finden. Dass diese den von den Abschlussprüfungen I und II erwarteten Stoff umfänglich und hochwertig aufbereiten. Und dass Lehrerinnnen und Schülerinnen die Ergebnisse gebührenfrei und ohne urheberrechtliche Bedenken verwenden können.
+Wir wissen, dass so ein Ziel nur kooperativ zu erreichen ist. In kleinen Schritten. Deshalb stellen wir unsere Unterrichtseinheiten sukzessive bereit, jeweils als fertige PDF-Dateien und als Quelldokumente zur Verfügung. Beides zusammen -- die GitHub-Methodik und unsere Lizenzierung -- erlaubt es uns, mit Techniken der Open-Source-Softwareentwicklung wirklich freie Unterrichtsmaterialien für die Ausbildung von Fachinformatikerinnen zu entwickeln. Und zwar gemeinsam. Als Community.
 
-Wir wissen, dass so ein Ziel nur kooperativ zu erreichen ist. In kleinen Schritten. Deshalb stellen wir die PDF-Dateien und ihre Quellen in einem GitHub-Repository bereit, unter den Bedingungen der *CC-BY-4.0*-Lizenz. Beides zusammen, die GitHub-Methodik und die Lizenzierung, erlaubt es uns, mit Techniken der Open-Source-Softwareentwicklung wirklich freie Unterrichtsmaterialien für die Ausbildung von Fachinformatikerinnen zu entwickeln. Und zwar gemeinsam. Als Community.
-
-Seien Sie als Contributorin herzlich willkommen! Wir freuen uns auf jeden Pullrequest!!
+Seien Sie als Kontributorin herzlich willkommen! Wir freuen uns auf jeden Pullrequest!!
 
 ### [Lizenz](https://github.com/kreincke/proTironeComputatri/blob/main/LICENSING.md) 
 
@@ -49,10 +50,10 @@ Sofern im Einzelfall nicht anders vermerkt, stehen alle Dokumente unter der [CC-
 
  `proTironeComputatri` ist als GitHub-Organisation aufgesetzt und enthält folgende Repositories:
 
-* `protico.les` enthält fertige Unterrichtseinheiten geordnet nach den Lernfeldern
-* `protico.ltx` enthält ein build-System samt LaTeX/Markdown-basierte Quelle für Unterrichtseinheiten aus *protico.les*
-* `protico.msd` enthält Microsoft basierte Quellen für Unterrichtseinheiten für Unterrichtseinheiten aus *protico.les*
-* `protico.mdd` enthält die Quellen für ein Markdown-Demo-System.
+* `protico.les` stellt fertige Unterrichtseinheiten zum Download bereit, geordnet nach den Lernfeldern und Curriculum.
+* `protico.ltx` enthält LaTeX/Markdown-basierte Quellen für Unterrichtseinheiten samt build-System.
+* `protico.mso` soll einmal Microsoft Office Dokumente für Unterrichtseinheiten offerieren
+* `protico.mdd` enthält die selbstrefrentiellen Quellen für ein Markdown-Demo-System.
 
 ### Hintergrund
 

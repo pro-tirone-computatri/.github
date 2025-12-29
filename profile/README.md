@@ -1,7 +1,7 @@
 
 <!--
 % This file is part of the Open Source project 'proTironeComputatri'
-% (c) 2025 Karsten Reincke (https://github.com/kreincke/proTironeComputatri)
+% (c) 2025 Karsten Reincke (https://github.com/pro-tirone-computatri)
 % It is distributed under the terms of the Creative Commons license
 % CC-BY-4.0 (= https://creativecommons.org/licenses/by/4.0/)
 -->
@@ -40,7 +40,7 @@ Seien Sie als Kontributorin herzlich willkommen! Wir freuen uns auf jeden Pullre
 
 ### [Lizenz](https://github.com/kreincke/proTironeComputatri/blob/main/LICENSING.md) 
 
-Sofern im Einzelfall nicht anders vermerkt, stehen alle Dokumente unter der [CC-BY-4.0-Lizenz](https://creativecommons.org/licenses/by/4.0/deed.de). Davon ausgenommen ist das [proTirone-Logo](https://github.com/kreincke/proTironeComputatri/blob/main/logo.png): Es darf nur verwendet werden, um das Projekt [proTirone](https://github.com/kreincke/proTironeComputatri/) visuell zu markieren bzw. anzuteasern.
+Sofern im Einzelfall nicht anders vermerkt, stehen alle Dokumente unter der [CC-BY-4.0-Lizenz](https://creativecommons.org/licenses/by/4.0/deed.de). Davon ausgenommen ist das [proTirone-Logo](../logo.png): Es darf nur verwendet werden, um das Projekt [proTirone](https://github.com/pro-tirone-computatri) und seine Repositories visuell zu markieren bzw. anzuteasern.
 
 ### Struktur
 

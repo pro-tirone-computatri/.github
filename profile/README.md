@@ -27,7 +27,7 @@ Deshalb bieten Ihnen die *proTironeComputatri*-Repositories **_freie_ Lehr- und 
 * die sich an die Aufteilung der Lernfelder halten,
 * die für sich fertig nutzbare Lehr- und Lernmaterialien bilden,
 * die zusammen alle Themen und Aspekte eines Lernfeldes abdecken,
-* die *CC-BY-4.0* sind.
+* die *CC-BY-4.0* lizenziert sind.
 
 Wir wissen, dass so ein Ziel nur kooperativ zu erreichen ist. In kleinen Schritten. Deshalb stellen wir unsere Unterrichtseinheiten sukzessive bereit: Wir entwickeln sie zuerst in öffentlichen GitHub-Repositories. Und was reif ist, stellen wir dann als PDF-Dateien in einem Repository für fertige Unterrichtseinheiten zum Download bereit. Beides zusammen -- die GitHub-Methodik und unsere Lizenzierung -- erlaubt es uns, mit Techniken der Open-Source-Softwareentwicklung wirklich freie Unterrichtsmaterialien für die Ausbildung von Fachinformatikerinnen zu entwickeln. Und zwar gemeinsam. Als Community.
 

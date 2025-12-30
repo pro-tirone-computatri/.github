@@ -45,7 +45,7 @@ Sofern im Einzelfall nicht anders vermerkt, stehen alle Dokumente unter der [CC-
 
  `proTironeComputatri` ist als GitHub-Organisation aufgesetzt und enthält folgende Repositories:
 
-* `protico.les` stellt fertige Unterrichtseinheiten zum Download bereit, geordnet nach den Lernfeldern und Curriculum.
+* `protico.lessons` stellt fertige Unterrichtseinheiten zum Download bereit, geordnet nach den Lernfeldern und Curriculum.
 * `protico.ltx` enthält LaTeX/Markdown-basierte Quellen für Unterrichtseinheiten samt build-System.
 * `protico.mso` soll einmal Microsoft-Office-Dokumente für Unterrichtseinheiten offerieren
 * `protico.mdd` enthält die selbstrefrentiellen Quellen für ein Markdown-Demo-System.

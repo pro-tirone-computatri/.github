@@ -9,7 +9,9 @@
 
 <!-- LTeX:Language=de-DE -->
 
-## Freie Unterrichtsmaterialien für die Ausbildung zur Fachinformatikerin
+[Download-Repository](https://github.com/pro-tirone-computatri/protico.lessons) + [Quellen-Repository](https://github.com/pro-tirone-computatri/protico.ltx)
+
+## Freie Lehrmaterialien für die Ausbildung zur Fachinformatikerin
 
 <!-- LTeX:Language=en-US -->
 
@@ -17,9 +19,9 @@
 
 <!-- LTeX:Language=de-DE -->
 
-### Manifest
+### (1) Manifest
 
-Wir möchten Lehrerinnnen und Schülerinnen fertig aufbereitete Unterrichts- und Lerneinheiten für die Ausbildung zur Fachinformatikerin anbieten. Wir wollen den Stoff, den die Abschlussprüfungen I und II erwarten, umfänglich und hochwertig aufbereiten. Und wir wünschen uns, dass jede Nutzerin unsere Ergebnisse im Sinne freier Software und Dokumente gebührenfrei und ohne urheberrechtliche Bedenken verwenden kann.
+Wir möchten Lehrerinnen und Schülerinnen fertig aufbereitete Unterrichts- und Lerneinheiten für die Ausbildung zur Fachinformatikerin anbieten. Wir wollen den Stoff, den die Abschlussprüfungen I und II erwarten, umfänglich und hochwertig aufbereiten. Und wir wünschen uns, dass jede Nutzerin unsere Ergebnisse im Sinne freier Software und Dokumente gebührenfrei und ohne urheberrechtliche Bedenken verwenden kann.
 
 Deshalb bieten Ihnen die *proTironeComputatri*-Repositories **_freie_ Lehr- und Lernmaterialien für die Ausbildung zur Fachinformatikerin**[^1] in Form von Dokumenten und Skripten, 
 
@@ -37,11 +39,11 @@ Seien Sie als Kontributorin herzlich willkommen! Wir freuen uns auf jeden Pullre
   <a href="https://github.com/pro-tirone-computatri"><img src="../logo.png" height="80"></a>
 </p>
 
-### [Lizenz](../LICENSING.md) 
+### (2) [Lizenz](../LICENSING.md) 
 
 Sofern im Einzelfall nicht anders vermerkt, stehen alle Dokumente unter der [CC-BY-4.0-Lizenz](https://creativecommons.org/licenses/by/4.0/deed.de). Davon ausgenommen ist das [proTirone-Logo](../logo.png): Es darf nur verwendet werden, um das Projekt [proTirone](https://github.com/pro-tirone-computatri) und seine Repositories visuell zu markieren bzw. anzuteasern.
 
-### Struktur
+### (3) Struktur
 
  `proTironeComputatri` ist als GitHub-Organisation aufgesetzt und enthält folgende Repositories:
 
@@ -50,17 +52,17 @@ Sofern im Einzelfall nicht anders vermerkt, stehen alle Dokumente unter der [CC-
 * `protico.mso` soll einmal Microsoft-Office-Dokumente für Unterrichtseinheiten offerieren
 * `protico.mdd` enthält die selbstrefrentiellen Quellen für ein Markdown-Demo-System.
 
-### Hintergrund
+### (4) Hintergrund
 
 In Deutschland gibt es neben dem Studium der Informatik die Ausbildung zur Fachinformatikerin.[^1] Ersteres schließt mit dem Bachelor oder Master ab, letztere mit dem Gesellenbrief. Denn die Ausbildung zur Fachinformatikerin ist Teil des deutschen dualen Ausbildungssystems: die 'Azubis' - die *Tirones* - werden im Betrieb und in der Berufsschule ausgebildet. Und für die Ausbildung in der Berufsschule braucht es - neben Lehrerinnen und einem Rahmenlehrplan - ein Curriculum und entsprechende Lehrmaterialien.
 
 Wäre es nicht schön, wenn die zukünftigen Informatikerinnen gleich anhand von Open-Source-(Software) basierten Dokumenten ausgebildet würden?
 
-### Warum nutzt Ihr einen lateinischen Projektnamen?
+### (5) Warum nutzt Ihr einen lateinischen Projektnamen?
 
 Wann immer wir nach *Fachinformatik* 'gegoogelt' hatten, sind wir auf Treffer zur universitären Informatik gestoßen: Die Bedeutungen von *Fachinformatik* und *Fach Informatik* liegen einfach zu eng beieinander. Auch die Wörter *Lehrling* oder *Lehrlingsausbildung* führen über *Lehre* und *Bildung* in den universitären Kontext.[^2] 
 
-Um nun unser Vorhaben explizit in den Kontext der deutschen Lehrlingsausbildung - das deutsche duale Ausbildungssystem - zu stellen und vom universitären Anspruch abzugrenzen, haben wir uns für den lateinischen Neologismus [computatrum = Rechenmaschine/Computer](https://www.latin-is-simple.com/de/vocabulary/noun/6131/) und das Wort [tiro = Lehrling](https://de.pons.com/übersetzung-2/latein-deutsch/tiro) entschieden. Weil letzteres in der Verbindung mit der Präposition *pro* im Ablativ genutzt wird, entstand **pro tirone computatri**: *für den Lehrling der Fachinformatik*. Und das beschreibt den Zweck dieses Projektes und Repositories recht gut.
+Um nun unser Vorhaben explizit in den Kontext der deutschen Lehrlingsausbildung - das deutsche duale Ausbildungssystem - zu stellen und vom universitären Anspruch abzugrenzen, haben wir uns für den lateinischen Neologismus [computatrum = Rechenmaschine/Computer](https://www.latin-is-simple.com/de/vocabulary/noun/6131/) und das Wort [tiro = Lehrling](https://de.pons.com/übersetzung-2/latein-deutsch/tiro) entschieden. Weil Letzteres in der Verbindung mit der Präposition *pro* im Ablativ genutzt wird, entstand **pro tirone computatri**: *für den Lehrling der Fachinformatik*. Und das beschreibt den Zweck dieses Projektes und Repositories recht gut.
 
 
 

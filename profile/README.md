@@ -8,7 +8,9 @@
 
 
 <!-- LTeX:Language=de-DE -->
-| Download-Repository [protico.lessons](https://github.com/pro-tirone-computatri/protico.lessons) | Quellen-Repository [protico.ltx](https://github.com/pro-tirone-computatri/protico.ltx) |
+Download-Repository [protico.lessons](https://github.com/pro-tirone-computatri/protico.lessons) | Quellen-Repository [protico.ltx](https://github.com/pro-tirone-computatri/protico.ltx) 
+
+---
 
 ## Freie Lehrmaterialien für die Ausbildung zur Fachinformatikerin
 
